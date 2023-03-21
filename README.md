@@ -1,0 +1,2 @@
+# exerciciosCasoDeUso
+tropeço
